@@ -1,0 +1,6 @@
+{
+  "name": "Safar: Trucker Companion",
+  "description": "Premium workflow utility for commercial vehicle and tempo drivers to log routes, track cargo deadlines, calculate fuel and personal trip expenses, monitor RTO compliance, and discover compatible fuel stations along routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
